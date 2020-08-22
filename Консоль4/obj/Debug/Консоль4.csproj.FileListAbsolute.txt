@@ -1,0 +1,12 @@
+C:\Users\egora\source\repos\Консоль4\bin\Debug\Консоль4.exe.config
+C:\Users\egora\source\repos\Консоль4\bin\Debug\Консоль4.exe
+C:\Users\egora\source\repos\Консоль4\bin\Debug\Консоль4.pdb
+C:\Users\egora\source\repos\Консоль4\obj\Debug\Консоль4.csprojAssemblyReference.cache
+C:\Users\egora\source\repos\Консоль4\obj\Debug\Консоль4.exe
+C:\Users\egora\source\repos\Консоль4\obj\Debug\Консоль4.pdb
+C:\Users\egora\Desktop\Консоль4\bin\Debug\Консоль4.exe.config
+C:\Users\egora\Desktop\Консоль4\bin\Debug\Консоль4.exe
+C:\Users\egora\Desktop\Консоль4\bin\Debug\Консоль4.pdb
+C:\Users\egora\Desktop\Консоль4\obj\Debug\Консоль4.csprojAssemblyReference.cache
+C:\Users\egora\Desktop\Консоль4\obj\Debug\Консоль4.exe
+C:\Users\egora\Desktop\Консоль4\obj\Debug\Консоль4.pdb
